@@ -3,6 +3,7 @@
   padding-top: 50px;
   color: $color-claro;
   background-color: $color-secundario;
+  height: 100vh;
 
   &__avatar {
     display: block;
@@ -29,7 +30,7 @@
     width: 100px;
     height: 40px;
     margin: 15px auto;
-    padding-top: 15px;
+    padding-top: 5px;
     border-radius: 20px;
     text-decoration: none;
     text-align: center;
