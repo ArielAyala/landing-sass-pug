@@ -1,0 +1,31 @@
+.ubicacion--perfil {
+  width: 50%;
+  height: 90px;
+  margin: 30px auto 0 auto;
+  padding: 20px 0 0 50px;
+  border-radius: 20px;
+  background-color: $color-claro;
+  color: $color-primario;
+
+  i {
+    display: block;
+    float: left;
+    padding-right: 10px;
+    font-size: 40px;
+    color: $color-variacion;
+  }
+
+  h2 {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: $Fuente2;
+  }
+
+  h3 {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: $Fuente2;
+  }
+}
